@@ -158,14 +158,14 @@ footer{
     padding: 0;
   }
   .filter-menu li {
-    border: 1px solid white;
+    border: 1px solid ivory;
     padding: 0.3rem 0.8rem;
     font-size: 1rem;
     cursor: pointer;
-    opacity: 0.6;
+    opacity: 1;
   }
   .filter-options li.active {
-    background: white;
+    background: ivory;
     color: black;
     opacity: 1;
   }
@@ -198,8 +198,9 @@ footer{
     opacity: 1;
 }
 .filter-menu li.active {
-    background: ivory;
+    background: #e8d426;;
     color: black;
+    border: none;
     opacity: 1;
 }
 .filters{
