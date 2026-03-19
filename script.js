@@ -60,7 +60,7 @@ const data = [
       "Color": "Pink",
       "Weave": "Banarasi (Cutwork)",
       "Type": "Banarasi",
-      "Notes": "Bought for 18th weddign anniversary and worn on my 16th birthday",
+      "Notes": "Bought for 18th wedding anniversary and worn on my 16th birthday",
       "Occasion": "Anniversary"
     },
     {
