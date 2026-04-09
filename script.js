@@ -699,7 +699,7 @@ const data = [
       "Color": "Green",
       "Weave": "Kanjivaram",
       "Type": "Kanjivaram",
-      "Notes": "Worn for a wedding, one of the first Kanjivarams she every bought after her wedding",
+      "Notes": "Worn for a wedding, one of the first Kanjivarams she ever bought after her wedding",
       "Occasion": "Wedding"
     },
     {
